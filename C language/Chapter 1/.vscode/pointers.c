@@ -14,4 +14,4 @@ printf("The address of a is %p\n",&ptr); // prints the address of pointer
 return 0;
 } 
 
-// I am fucking idiot that's why i am learning C. Hello my name is Puneet Mehra
+// I am good student that's why I am learning C. Hello my name is Puneet Mehra
