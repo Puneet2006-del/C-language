@@ -1,0 +1,2 @@
+puneet, 100000
+kuldeep, 100000
